@@ -35,7 +35,7 @@ Reemplaza `TU_USUARIO` por tu usuario de GitHub. Si descargaste un repositorio q
 - Colores, tamaños y diseño adaptable: `styles.css`.
 - Precio y teléfono del mensaje: constantes `PRICE` y `PHONE` al inicio de `script.js`.
 - Fotografías de los premios: `assets/premio-01.webp` a `assets/premio-07.webp`.
-- Afiche descargable: `assets/afiche-rifa.png`.
+- Rifa descargable (PDF): `assets/rifa-osvaldo-teran.pdf`. Imagen: `assets/afiche-rifa.jpg`; vista previa: `assets/afiche-preview.jpg`.
 
 Al cambiar el teléfono actualiza también los enlaces `wa.me` y el número visible en `index.html`. Al cambiar el precio actualiza también los textos de la página y el afiche.
 
